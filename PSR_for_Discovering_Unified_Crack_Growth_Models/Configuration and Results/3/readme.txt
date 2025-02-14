@@ -1,0 +1,2 @@
+Comparison PSR with the homogeneous-data approach(1) and the aggregated-data approach(2);
+For the experimental results of  the homogeneous-data approach and the aggregated-data approach, only the first phase, specifically the results from the first 25 generations, is considered.
